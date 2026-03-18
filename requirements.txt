@@ -1,0 +1,23 @@
+# Core HTTP and async support
+httpx==0.27.0
+aiohttp==3.9.3
+
+# Browser automation for DOM-based scanning
+playwright==1.44.0
+
+# CLI formatting and progress bar
+rich==13.7.1
+
+# System utilities
+argcomplete==3.2.2
+python-dateutil==2.9.0.post0
+
+# Logging (recommended for file-based logging/resume support)
+loguru==0.7.2
+
+# Optional: for parsing HTML forms robustly (e.g., for stored XSS)
+beautifulsoup4==4.12.3
+lxml==5.2.1
+
+# Optional: proxy management/validation (if extended)
+PySocks==1.7.1
