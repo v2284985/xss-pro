@@ -182,8 +182,8 @@ PRs welcome!
 Open an issue to propose features or report bugs.
 
 ## 🧠 Author
-AwesomeVed
+Vikas
 Cybersecurity Student • Bug Bounty Hunter
-devkumarmahto204@outlook.com
+v2284985@gmail.com
 
 
